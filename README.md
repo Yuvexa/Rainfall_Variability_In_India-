@@ -7,4 +7,4 @@ available, so the repository does not represent the complete original
 codebase.
 
 The included report documents the methodology, statistical modelling,
-model selection, results, and conclusions of the project.
+model selection, results, impact, conclusions and references of the project.
