@@ -139,7 +139,7 @@ Extreme rainfall risk analysis
 
 ### The results can support flood-risk assessment and planning related to agriculture, construction, water resources and environmental management.
 
-## Project Note
+## Important Note
 
 This project was originally completed as an academic group project.
 The repository contains the available project files and the final
